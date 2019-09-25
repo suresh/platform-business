@@ -43,6 +43,8 @@ We have seen this play out in the software market, where PC software makers disp
 ### References
 1. https://qz.com/96109/stratasys-just-acquired-makerbot-the-one-3d-printing-firm-that-could-have-disrupted-it/
 
+________________________________________________________________________________________________________________________________________
+
 ### Some of the key points this week for me:
 
 * Platform is a micro-economy and the operator should understand all the key players and their incentives to play. Platform governance & policies decides economic outcomes and there needs to designed.
