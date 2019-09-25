@@ -19,6 +19,7 @@ MakerBot should now think about moving some of the services and products away fr
 * Stratasys to Acquire MakerBot, Merging Two Global 3D Printing Industry Leaders - http://investors.stratasys.com/news-releases/news-release-details/stratasys-acquire-makerbot-merging-two-global-3d-printing
 * Stratasys just acquired MakerBot, the one 3D printing firm that could have disrupted it - https://qz.com/96109/stratasys-just-acquired-makerbot-the-one-3d-printing-firm-that-could-have-disrupted-it/
 
+________________________________________________________________________________________________________________________________________
 
 ### What is the threat from established players?
 
